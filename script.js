@@ -58,7 +58,7 @@ j1.style.cssText = 'display:none';
 
 let k = document.createElement('h1');
 k.innerText = 'Happy Independence Day';
-k.style.cssText = 'background-color:green; color:rgb(231, 85, 12); text-align:center; font-size:150px ';
+k.style.cssText =' color:rgb(231, 85, 12); text-align:center; font-size:150px ';
 
 
 
